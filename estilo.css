@@ -1,0 +1,31 @@
+.div_a {
+    background-color: #4a6670;
+    width: 500px;
+    height: 500px;
+}
+
+.div_b {
+    background-color: #668F80;
+    width: 100px;
+    height: 350px;
+}
+
+#paragrafo_ {
+    color: #000000;
+    background-color: #A0AF84;
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+.div_d {
+    background-color: #C3B59F;
+    width: 50%;
+    height: 25vh;
+}
+
+.div_e {
+    background-color: #D6A2AD;
+    width: 35vw;
+    height: 25vh;
+}
